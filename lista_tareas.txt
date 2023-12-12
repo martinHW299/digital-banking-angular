@@ -1,0 +1,5 @@
+1. Agregar componente login y lógica de validación.
+2. Corrección de las direcciones URL para tener el sistema integral.
+3. Modificar el proyecto para el uso de datos persistentes.
+4. Agregar sección de gestión de cuentas.
+5. Agregar funcionalidad de activación y desactivación de cuentas.
